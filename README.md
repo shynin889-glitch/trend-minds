@@ -1,7 +1,3 @@
-# trend-minds
-<p align="center">
-  <img src=""C:\Users\shyni\Downloads\Phone Link\IMG-20260411-WA0001.jpg"" alt="TrendAura Banner" width="100%">
-</p>
 
 # TrendAura 👗✨
 
@@ -89,14 +85,9 @@ By integrating these features, TrendAura helps users make confident fashion deci
 📸 Project Documentation
 
 🖥️ Home Page / Dashboard
-"C:\Users\shyni\OneDrive\Pictures\Screenshots\Screenshot 2026-04-19 075226.png"
 👗 Outfit Recommendation Section
-"C:\Users\shyni\OneDrive\Pictures\Screenshots\Screenshot 2026-04-19 075259.png"
 🖥️ai stylist
-"C:\Users\shyni\OneDrive\Pictures\Screenshots\Screenshot 2026-04-19 075332.png"
 📅 style forecast
-"C:\Users\shyni\OneDrive\Pictures\Screenshots\Screenshot 2026-04-19 075406.png"
-
 
 
 🤖 AI Tools Used (Optional)
